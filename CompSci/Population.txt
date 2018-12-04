@@ -1,0 +1,14 @@
+Please enter the intial Population: 1.0
+Please enter a real number: 
+
+Please Enter the Daily Population Increase: -1.0
+Enter the Daily Population Increase: 
+
+Enter the amount of days the Population will be increasing for: 0.0
+Please enter a number greater than 1.
+
+Days: 1-----3.0
+Days: 2-----4.5
+Days: 3-----6.75
+Days: 4-----10.125
+Days: 5-----15.1875

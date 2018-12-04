@@ -1,0 +1,24 @@
+Please enter the answers in Caps please. Ex: A, B, C, D
+What is the answer to question #1? B
+What is the answer to question #2? D
+What is the answer to question #3? A
+What is the answer to question #4? A
+What is the answer to question #5? C
+What is the answer to question #6? A
+What is the answer to question #7? B
+What is the answer to question #8? A
+What is the answer to question #9? C
+What is the answer to question #10? D
+What is the answer to question #11? B
+What is the answer to question #12? C
+What is the answer to question #13? D
+What is the answer to question #14? A
+What is the answer to question #15? D
+What is the answer to question #16? C
+What is the answer to question #17? C
+What is the answer to question #18? B
+What is the answer to question #19? D
+What is the answer to question #20? A
+Total correct: 20
+Total incorrect: 0
+you Passed
